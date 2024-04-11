@@ -19,3 +19,14 @@ toDo = [
     'Buy 2 shoes'
 
 ]
+
+let room = {
+    Beds: 1,
+    Size: 'big',
+    Balcony: 'yes',
+    Tv: false
+}
+
+console.log('My task list is: ' + toDo)
+console.log('My room: ' + room)
+console.log(room)
