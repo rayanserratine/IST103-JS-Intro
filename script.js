@@ -10,3 +10,12 @@ console.log('His age is ' + age)
 console.log('He is my boss? ' + boss)
 console.log(weird)
 
+let toDo = []
+
+toDo = [
+    'Create the BCID',
+    'Change my cell phone',
+    'Go grab my payheck',
+    'Buy 2 shoes'
+
+]
